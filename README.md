@@ -1,7 +1,6 @@
 # Space-Invaders
 C++ Space Invaders clone built for a custom University of Leeds gamepad (NXP K64F board). Features implemented based on the original game:
 - Left to right movement for the player 'canon'
-- A fixed amount of player lives
 - Firing mechanics for both canon and invaders (2D collision systems)
 - Random firing from current invaders
 - Wave based level design
