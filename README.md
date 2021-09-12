@@ -12,4 +12,5 @@ Overall this project was an exercise in headers and low level, unsafe code with 
 In the future, storing objects in vectors will be avoided, as this is a huge memory hog. Instead values for each alien could be stored as integers and parsed on access. Matrices provide another easier way to define these 3D integer maps.
 
 [!alt text](https://raw.githubusercontent.com/haelyons/Space-Invaders/master/Gamepad.png)
-[!alt text](https://raw.githubusercontent.com/haelyons/Space-Invaders/master/Gamepad%20Diagram.png)
+
+![alt text](https://raw.githubusercontent.com/haelyons/Website-Content/master/BLUE%20SPACE.png)
